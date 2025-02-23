@@ -26,14 +26,6 @@ The main goal of this project is to:
 
 ---
 
-## 🎬 **Demo**
-
-Here’s how the Streamlit app works:
-
-![App Demo](docs/demo.gif)
-
----
-
 ## 🛠️ **Installation & Setup**
 
 ### 🔗 **1. Clone the repository**
